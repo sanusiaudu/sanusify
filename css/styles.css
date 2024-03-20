@@ -1,3 +1,5 @@
+@import"./normalize.css";
+
 :root{
     --color-accent: #ff3400;
     --color-body: #918ca4;
